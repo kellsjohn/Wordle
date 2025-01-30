@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "wordle",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "kaboom": "^3000.1.17",
+    "pug": "^3.0.3",
+    "pug-plain-loader": "^1.1.0",
     "vue": "^3.5.13"
   },
   "devDependencies": {

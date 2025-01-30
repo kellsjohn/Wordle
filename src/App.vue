@@ -1,9 +1,9 @@
 <template>
   <div>
-    <Card />
+    <Wordle />
   </div>
 </template>
 
 <script setup>
-import Card from './components/card.vue'
+import Wordle from "./components/wordle.vue";
 </script>
